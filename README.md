@@ -10,10 +10,6 @@
 
 ### 🌟 [View My Interactive Resume](https://my-resume-ashy-six.vercel.app)
 
-### 🚀 Career Timeline
-
-![Career Timeline](./career_timeline.svg)
-
 ### 🛠 Technical Skills
 
 #### Automation Tools
