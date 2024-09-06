@@ -4,8 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/tohoaibao?style=social)](https://github.com/tohoaibao)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohoaibao/)
 
-📞 0865.497.917 | 📧 briceto102@gmail.com | 📍 Sai Gon, Vietnam
-
 👨‍💻 Experienced Automation Tester with over 6 years of expertise in designing, implementing, and maintaining robust test automation frameworks across diverse industries including telecom, logistics, freight forwarding, and banking.
 
 ### 🌟 [View My Interactive Resume](https://my-resume-ashy-six.vercel.app)
