@@ -10,8 +10,6 @@
 
 ### 🚀 Career Timeline
 
-![Career Timeline](career_timeline_svg.svg)
-
 [View Interactive Timeline on my Portfolio](https://your-portfolio-url.com/timeline)
 
 ### 🛠 Technical Skills
