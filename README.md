@@ -10,7 +10,7 @@
 
 ### 🚀 Career Timeline
 
-[View Interactive Timeline on my Portfolio](https://your-portfolio-url.com/timeline)
+[View Interactive Timeline on my Portfolio](my-resume-ashy-six.vercel.app)
 
 ### 🛠 Technical Skills
 
